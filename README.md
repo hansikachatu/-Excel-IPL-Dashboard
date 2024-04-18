@@ -26,3 +26,7 @@ Analyze the distribution of orders by pizza size (e.g., small, medium, large) to
  Top 5 Pizzas by Sales:
 
 Highlight the best-selling pizzas along with their sales figures to focus on popular items and drive sales.
+
+ Bottom 5 Pizzas by Sales:
+
+Identify the least popular pizzas based on sales to evaluate their performance and consider adjustments to the menu.
