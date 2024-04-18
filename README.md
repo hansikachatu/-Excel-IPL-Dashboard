@@ -32,4 +32,4 @@ Highlight the best-selling pizzas along with their sales figures to focus on pop
 Identify the least popular pizzas based on sales to evaluate their performance and consider adjustments to the menu.
 
  # Why It Matters
-This is not just about beautiful charts; it's about actionable insights. By converting raw data into visual form, it empowered the business to make data-driven decisions. Armed with these insights, organisation can optimize their menu offerings, marketing strategies, and operational efficiency to serve their customers better and continue to be their go-to choice for mouthwatering pizza.
+This is not just about beautiful charts; it's about actionable insights. By converting raw data into visual form, it empowered the business to make data-driven decisions. Armed with these insights, organisation can optimize their menu offerings, marketing strategies, and operational efficiency to serve their customers better and continue to be their go-to choice for mouthwatering pizza.  Present the insights and findings derived from the dashboard, along with any actionable recommendations for improving business performance based on the data analysis.
